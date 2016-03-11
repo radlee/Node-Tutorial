@@ -25,13 +25,13 @@ Now you are ready to use JavaScript from the command line.
 
 ## Node JS Javascript from the command line
 
-Let's run a simple JavaScript script from the command line:
+Let's create a simple JavaScript file and run it from the command line:
 
 * Create a file called `hello.js`
-* copy this text into the file: `console.log('hello world!');`
+* Copy this text into the file: `console.log('hello world!');`
 * Save the file
-* now run it using `nodejs hello.js`
-* what happens?
+* Now run it using `nodejs hello.js`
+* What happens?
 
 So what just happened? You liberated your JavaScript knowledge from the command line.
 
